@@ -10259,3 +10259,11 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.skill-button{
+  margin: 1%;
+}
+
+.t-center {
+  text-align: center;
+}
